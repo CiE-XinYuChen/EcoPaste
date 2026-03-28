@@ -90,6 +90,7 @@ export interface ClipboardStore {
     deleteConfirm: boolean;
     autoSort: boolean;
     showOriginalContent: boolean;
+    convertRtfToPlain: boolean;
   };
 
   // 历史记录

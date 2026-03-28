@@ -127,7 +127,8 @@
           "delete_confirm": "删除剪贴板内容时弹出确认对话框",
           "operation_button": "自定义操作剪贴板内容的图标按钮",
           "paste_as_plain": "富文本和HTML格式在粘贴时仅保留纯文本内容",
-          "show_original_content": "添加备注后，鼠标悬停时是否显示原内容"
+          "show_original_content": "添加备注后，鼠标悬停时是否显示原内容",
+          "convert_rtf_to_plain": "检测到富文本（RTF）内容时，自动将剪贴板转换为纯文本并发送系统通知"
         },
         "label": {
           "auto_favorite": "自动收藏",
@@ -147,7 +148,8 @@
             "paste_plain": "粘贴为纯文本"
           },
           "paste_as_plain": "粘贴为纯文本",
-          "show_original_content": "显示原内容"
+          "show_original_content": "显示原内容",
+          "convert_rtf_to_plain": "RTF 转纯文本"
         },
         "title": "内容设置"
       },

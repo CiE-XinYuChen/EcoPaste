@@ -127,7 +127,8 @@
           "delete_confirm": "Pop-up confirmation dialog when deleting clipboard contents",
           "operation_button": "Customize icon buttons to operate on clipboard content",
           "paste_as_plain": "Rich text and HTML formatting retains only plain text content when pasting",
-          "show_original_content": "Whether to display the original content on mouse hover after adding a note"
+          "show_original_content": "Whether to display the original content on mouse hover after adding a note",
+          "convert_rtf_to_plain": "When RTF content is detected, automatically convert the clipboard to plain text and send a system notification"
         },
         "label": {
           "auto_favorite": "Auto Favorite",
@@ -147,7 +148,8 @@
             "paste_plain": "Paste as Plain Text"
           },
           "paste_as_plain": "Paste as Plain Text",
-          "show_original_content": "Show Original Content"
+          "show_original_content": "Show Original Content",
+          "convert_rtf_to_plain": "Convert RTF to Plain Text"
         },
         "title": "Content Settings"
       },

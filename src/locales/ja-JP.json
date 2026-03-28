@@ -127,7 +127,8 @@
           "delete_confirm": "クリップボードの内容を削除する際に確認ダイアログを表示する",
           "operation_button": "クリップボード内容を操作するためのアイコンボタンをカスタマイズします",
           "paste_as_plain": "リッチテキストとHTMLの書式設定は、貼り付け時にプレーンテキストの内容だけを保持する",
-          "show_original_content": "メモを追加した後、マウスをホバーしたときに元のコンテンツを表示するかどうか"
+          "show_original_content": "メモを追加した後、マウスをホバーしたときに元のコンテンツを表示するかどうか",
+          "convert_rtf_to_plain": "RTFコンテンツが検出された場合、クリップボードをプレーンテキストに自動変換してシステム通知を送信します"
         },
         "label": {
           "auto_favorite": "自動コレクション",
@@ -147,7 +148,8 @@
             "paste_plain": "プレーンテキストとして貼り付け"
           },
           "paste_as_plain": "プレーンテキストとして貼り付ける",
-          "show_original_content": "元の内容を表示します"
+          "show_original_content": "元の内容を表示します",
+          "convert_rtf_to_plain": "RTFをプレーンテキストに変換"
         },
         "title": "コンテンツ設定"
       },

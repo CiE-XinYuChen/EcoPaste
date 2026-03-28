@@ -40,6 +40,7 @@
       ],
       "identifier": "opener:allow-open-path"
     },
+    "notification:default",
     "clipboard-x:default",
     "eco-window:default",
     "eco-paste:default",

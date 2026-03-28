@@ -142,6 +142,19 @@ const ClipboardSettings = () => {
           )}
           value={content.showOriginalContent}
         />
+
+        <ProSwitch
+          description={t(
+            "preference.clipboard.content_settings.hints.convert_rtf_to_plain",
+          )}
+          onChange={(value) => {
+            clipboardStore.content.convertRtfToPlain = value;
+          }}
+          title={t(
+            "preference.clipboard.content_settings.label.convert_rtf_to_plain",
+          )}
+          value={content.convertRtfToPlain}
+        />
       </ProList>
     </>
   );

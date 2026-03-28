@@ -65,6 +65,8 @@ pub fn run() {
         .plugin(tauri_plugin_opener::init())
         // 禁用 webview 的默认行为：https://github.com/ferreira-tb/tauri-plugin-prevent-default
         .plugin(prevent_default::init())
+        // 系统通知插件：https://github.com/tauri-apps/plugins-workspace/tree/v2/plugins/notification
+        .plugin(tauri_plugin_notification::init())
         // 剪贴板插件：https://github.com/ayangweb/tauri-plugin-clipboard-x
         .plugin(tauri_plugin_clipboard_x::init())
         // 自定义的窗口管理插件
