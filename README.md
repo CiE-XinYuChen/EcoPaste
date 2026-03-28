@@ -59,6 +59,16 @@
   </picture>
 </div>
 
+<div align="center">
+
+> **特别版本说明**
+>
+> 本版本为基于 [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) 官方源码的定制版，额外新增以下功能：
+>
+> **RTF 转纯文本**：在偏好设置 → 剪贴板 → 内容设置中开启「RTF 转纯文本」后，复制 `.rtf` / `.rtfd` 文件或富文本内容时，会自动将剪贴板转换为纯文本并发送系统通知。
+
+</div>
+
 ## 下载
 
 ### Windows
